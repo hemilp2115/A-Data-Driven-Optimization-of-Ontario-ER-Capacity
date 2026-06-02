@@ -1,7 +1,7 @@
-🏥 # A-Data-Driven-Optimization-of-Ontario-ER-Capacity
+ # A-Data-Driven-Optimization-of-Ontario-ER-Capacity
 An end-to-end data engineering and predictive analytics pipeline optimizing Ontario ER capacity. Uses SQL, SARIMA forecasting, and Monte Carlo simulations to solve hospital bottlenecks.
 
-# Solving Hallway Medicine: An Operational and Predictive Analytics Approach to ER Capacity
+# 🏥 Solving Hallway Medicine: An Operational and Predictive Analytics Approach to ER Capacity
 
 ## 📌 Executive Summary
 "Hallway Medicine" is a critical crisis in Ontario's healthcare system, with average urban Emergency Room wait times exceeding 2.1 hours. This Capstone project moves beyond basic reporting to mathematically engineer a staffing solution. By combining robust data engineering, operations math, and machine learning, this project proves that staffing to "average" volumes causes systemic collapse, and identifies the exact operational buffer capacity needed to stabilize hospital flow.
